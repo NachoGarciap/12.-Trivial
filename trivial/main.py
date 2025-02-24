@@ -30,7 +30,7 @@ class Trivial:
                 print('Saliendo...')
                 break
             else:
-                print('Introduce una opcion valida')
+                print('Introduce una opción valida')
 
     def juego(self, nivel):
         lista_preguntas = preguntas.Preguntas()
