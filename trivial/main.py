@@ -10,7 +10,7 @@ class Trivial:
         while True:
             print('----- Elige un nivel:  -----:')
             print('1. Capitales')
-            print('2. Programacion')
+            print('2. Programación')
             print('3. Animales')
             print('4. Salir')
 
